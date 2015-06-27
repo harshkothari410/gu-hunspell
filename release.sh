@@ -1,2 +1,2 @@
-rm -rf kn-dict.xpi
-zip kn-dic.xpi dictionaries/* install.rdf install.js
+rm -rf gu-dict.xpi
+zip gu-dic.xpi dictionaries/* install.rdf install.js

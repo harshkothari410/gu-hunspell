@@ -1,7 +1,7 @@
-    GNU Aspell Kannada Word List Package
+    GNU Aspell Gujarati Word List Package
 
-    Kannada words checked by Harisha 
-	from various Kannada dictionaries to help in Kannada writing
+    Gujarati words checked 
+	from various Gujarati dictionaries to help in Gujarati writing
 	
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
