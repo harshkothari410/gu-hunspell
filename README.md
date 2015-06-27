@@ -1,4 +1,4 @@
-kn-hunspell
+gu-hunspell
 ===========
 
-Kannada Hunspell Affix and Dictionary files
+Gujarati Hunspell Affix and Dictionary files
